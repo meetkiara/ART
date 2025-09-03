@@ -16,5 +16,4 @@ trajectories/
 .DS_Store
 .local/
 .claude/
-.vscode/
 .ruff_cache/
